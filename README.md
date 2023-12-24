@@ -15,15 +15,15 @@ The agricultural sector grapples with inefficiencies in pest detection and manag
 
 ## Plan of Action
 
-## Our Goal
+## Our Goal:
 
-## Our Project
+## Our Project:
 
 ### Project Name: 
 
-### Project Description
+### Project Description:
 
-### Technologies Used
+### Technologies Used:
 
 ### Results: 
 
