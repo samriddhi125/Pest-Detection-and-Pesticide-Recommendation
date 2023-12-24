@@ -7,7 +7,7 @@ We are a team of inquisitive undergraduate students pursuing B.Tech in AIML from
 
 - Rampalli Agni Mithra 
 - Samriddhi Kumari
-- V Yasawini
+- V Yasaswini
 
 ## Problem Statement
 The agricultural sector grapples with inefficiencies in pest detection and management, impacting crop health and overall productivity. Our project aims to address these challenges by leveraging image processing techniques to automate and enhance pest detection, offering a solution for more effective crop management and ultimately elevating agricultural productivity.
