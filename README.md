@@ -38,6 +38,10 @@ Python libraries such as
 ### Results: 
 Our pest detection system was able to achieve an accuracy of 65.035% on the test data. This accuracy explains the pest detection ability of the model.
 
+### Limitations and Future Work
+- Feature engineering can be performed more accurately with additional characteristics and metadata for better pest detection.
+- Future analysis and model building can be done using various other deep learning techniques and complex modeling techniques.
+
 ## Get Involved
 We encourage you to get in touch if our project interests you and you're eager to help, offer comments, or look into potential collaborations. We appreciate your input and encouragement very much, and we look forward to working with you to further our project.
 
