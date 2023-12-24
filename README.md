@@ -37,8 +37,6 @@ Python libraries such as
 
 ### Results: 
 
-### Future Improvements:
-
 ## Get Involved
 We encourage you to get in touch if our project interests you and you're eager to help, offer comments, or look into potential collaborations. We appreciate your input and encouragement very much, and we look forward to working with you to further our project.
 
