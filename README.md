@@ -19,7 +19,7 @@ Dataset consists of 56,685 high-quality images sorted into 132 pest classes, alo
 https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/grayscale
 
 ## Plan of Action
-**Data Reading, Preprocessing and Labeling:**
+### **Data Reading, Preprocessing and Labeling:**
 Using os.listdir we have read each file from its labeled folder and labeled it with the appropriate class and label_id for later classification. All images read were then flattened into 1-D arrays, and subsequently added to a dataframe.
 
 After reading the image from the file directory we have performed preprocessing step:
@@ -30,15 +30,15 @@ After reading the image from the file directory we have performed preprocessing 
 - Average contour area calculation
 After preprocessing, we calculated the average contour area for each image, which was considered as the primary feature for classification, which was also added to the DataFrame.
 
-**K-Nearest Neighbors (KNN) Classification:**
+### **K-Nearest Neighbors (KNN) Classification:**
 
 We used K-Nearest Neighbour classifier with n_neighbors = 3, from the scikit-learn library as the model to be trained. We split the data into training (80%) and testing (20%) sets. Then the model was trained on the data provided, and using joblib the trained model was saved to be deployed by Streamlit.
 
-**Model Evaluation:**
+### **Model Evaluation:**
 
 The accuracy score was calculated by comparing the predicted labels with the actual labels in the test data. The validation score indicates the accuracy of the model's predictions. We achieved an Accuracy score of 65.035%.
 
-### Technologies Used:
+## Tech Stack:
 Python libraries such as 
 - sciKit-image
 - SimpleITK
@@ -48,7 +48,7 @@ Python libraries such as
 - Pandas
 - StreamLit
 
-### Results: 
+## Results: 
 Our pest detection system was able to achieve an accuracy of 65.035% on the test data. This accuracy explains the pest detection ability of the model.
 
 ### Limitations and Future Work
