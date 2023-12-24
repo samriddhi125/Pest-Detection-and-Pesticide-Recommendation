@@ -27,7 +27,7 @@ The agricultural sector grapples with inefficiencies in pest detection and manag
 
 ### Results: 
 
-### Future Improvements
+### Future Improvements:
 
 ## Get Involved
 
