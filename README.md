@@ -38,6 +38,7 @@ Python libraries such as
 - OpenCV
 - Numpy
 - Pandas
+- StreamLit
 
 ### Results: 
 Our pest detection system was able to achieve an accuracy of 65.035% on the test data. This accuracy explains the pest detection ability of the model.
