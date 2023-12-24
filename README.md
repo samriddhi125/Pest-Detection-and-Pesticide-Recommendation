@@ -12,6 +12,11 @@ We are a team of inquisitive undergraduate students pursuing B.Tech in AIML from
 ## Problem Statement
 The agricultural sector grapples with inefficiencies in pest detection and management, impacting crop health and overall productivity. Our project aims to address these challenges by leveraging image processing techniques to automate and enhance pest detection, offering a solution for more effective crop management and ultimately elevating agricultural productivity.
 
+## Dataset Decription
+Dataset consists of 56,685 high-quality images sorted into 132 pest classes, along with relevant information on the pesticides used to control them.
+*Dataset Source:*
+https://github.com/spMohanty/PlantVillage-Dataset/tree/master/raw/grayscale
+
 ## Plan of Action
 
 ## Our Goal:
