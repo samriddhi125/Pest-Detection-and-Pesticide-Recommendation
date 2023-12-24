@@ -1,4 +1,4 @@
-# Pest-Detection-and-Pesticide-Recommendation
+# Pest Detection and Pesticide Recommendation
 
 ## Introduction
 
