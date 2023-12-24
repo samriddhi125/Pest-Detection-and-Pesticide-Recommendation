@@ -16,6 +16,8 @@ The agricultural sector grapples with inefficiencies in pest detection and manag
 ## Plan of Action
 
 ## Our Goal:
+Obtain clearly segmented and labelled parts of the image to correctly identify the pest in the image and recommend pesticide for the identified class of pest.
+
 
 ## Our Project:
 
