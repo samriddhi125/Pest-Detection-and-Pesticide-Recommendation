@@ -1,7 +1,7 @@
 # Pest Detection and Pesticide Recommendation
 
 ## Introduction
-
+Our project aims to demonstrate the power of machine learning analysis and image processing techniques in the agricultural domain. With a more refined and a higher quality dataset, this approach could have a huge impact in the agricultural domain, helping farmers to tackle their daily issues. Furthermore, features like E-commerce (selling and purchasing the pesticides), networking with the nearby farmers, pest infestation alerts etc can be added to make the application more interactive and user friendly.
 
 ## Meet the Team
 We are a team of inquisitive undergraduate students pursuing B.Tech in AIML from Symbiosis Institute of Technology - Pune, India.
