@@ -38,9 +38,6 @@ We used K-Nearest Neighbour classifier with n_neighbors = 3, from the scikit-lea
 
 The accuracy score was calculated by comparing the predicted labels with the actual labels in the test data. The validation score indicates the accuracy of the model's predictions. We achieved an Accuracy score of 65.035%.
 
-## Our Goal:
-Obtain clearly segmented and labelled parts of the image to correctly identify the pest in the image and recommend pesticide for the identified class of pest.
-
 ### Technologies Used:
 Python libraries such as 
 - sciKit-image
