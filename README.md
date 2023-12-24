@@ -21,7 +21,7 @@ Obtain clearly segmented and labelled parts of the image to correctly identify t
 
 ## Our Project:
 
-### Project Name: 
+### Project Name: Pest Detection and Pesticide Recommendation System
 
 ### Project Description:
 
