@@ -30,5 +30,9 @@ The agricultural sector grapples with inefficiencies in pest detection and manag
 ### Future Improvements:
 
 ## Get Involved
+We encourage you to get in touch if our project interests you and you're eager to help, offer comments, or look into potential collaborations. We appreciate your input and encouragement very much, and we look forward to working with you to further our project.
 
 ## Acknowledgments
+We'd like to express our gratitude to our mentor Dr.Jayant Jagtap for his guidance and support throughout the project.
+
+Thank you for taking the time to explore our mini-project. We're thrilled about the prospect of creating a positive impact.
